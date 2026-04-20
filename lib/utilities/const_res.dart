@@ -1,4 +1,4 @@
-const String baseURL = 'https://chat.edubest.com.ng';
+const String baseURL = 'https://chat.edubest.com.ng/';
 const String apiURL = '${baseURL}api/';
 const String apiKey = 'retry123';
 
